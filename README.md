@@ -6,7 +6,7 @@
 >
 > **This repository is a showcase only and contains no source code.** The source code is proprietary and kept in a private repository. If you are a recruiter or hiring manager and would like to review it, please contact me and I will add you as a read-only collaborator.
 >
-> 📬 **ליצירת קשר:** `[אימייל / לינקדאין]`
+> 📬 **ליצירת קשר:** [LinkedIn](https://www.linkedin.com/in/inbal-pessah/) · [inbalps12@gmail.com](mailto:inbalps12@gmail.com)
 
 ---
 
@@ -58,11 +58,29 @@ Google Apps Script (JavaScript) · Google Sheets · HTML/CSS · Web App deployme
 
 ## צילומי מסך
 
-`[להוסיף כאן 2-3 צילומי מסך של דף האורח ושל הגיליון, בלי שמות או טלפונים אמיתיים]`
+כל הנתונים בצילומים הם דוגמה: שמות, טלפונים וכתובות בדויים.
+
+**חוויית האורח בטלפון:** הזמנה, בחירת כמות מגיעים ואישור.
+
+![חוויית האורח בטלפון](screenshots/guest-flow.png)
+
+**גיליון הניהול:** רשימת האורחים עם סטטוסים בזמן אמת, ותפריט "ניהול אירוע" בתוך Google Sheets.
+
+![רשימת האורחים](screenshots/sheet-guests.png)
+![תפריט ניהול אירוע](screenshots/sheet-menu.png)
+
+**הגדרות ודשבורד:** כל הגדרות האירוע ונתוני התשובות במקום אחד.
+
+![הגדרות ודשבורד](screenshots/sheet-settings.png)
+
+**רשימת שליחה והודעה אישית:** שליחת הקישור לכל אורח בוואטסאפ, אחד אחרי השני, בלי לאבד את המקום.
+
+![רשימת שליחה](screenshots/send-list.png)
+![הודעת וואטסאפ מוכנה לשליחה](screenshots/whatsapp-message.png)
 
 ## התפקיד שלי
 
-`[להשלים: תכנון, פיתוח, כתיבת מדריכים, רישוי, מכירות, תמיכה בלקוחות]`
+יצרתי את המוצר מקצה לקצה: הגדרת הרעיון והמוצר, תכנון הארכיטקטורה, פיתוח המערכת (Google Apps Script ודף האורח), עיצוב חוויית האורח, כתיבת מדריכי ההקמה והמסמך הטכני, ניסוח הרישיון ומכירה ללקוחות.
 
 ## הצעד הבא
 
